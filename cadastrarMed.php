@@ -93,7 +93,7 @@ $medicamentos = listarMedicamentos();
                 <option>Analgesico</option>
                 <option>Antibiotico</option>
                 <option>Anti-inflamatorio</option>
-                <!-- Adicione outras categorias conforme necessário -->
+            
             </select>
         </div>
         <div class="form-group">
